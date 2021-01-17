@@ -1,62 +1,87 @@
 const help = (prefix) => { 
 	return `
-❦═─⊱〘 𝐼𝑁𝐹𝑂 〙⊰══
+╔══✪【INFORMATION】✪══
+
 ║
-╰─⊱ 𝐼𝐶𝐻𝐼 𝐵𝑂𝑇
-╰─⊱ 11.0
-╰─⊱ 𝑂𝑊𝑁𝐸𝑅 : 𝑀𝐴𝑆𝐿𝐸𝑁𝑇
-╰─⊱ wa.me/628165466368
-╰─⊱ 𝐵𝑖𝑔 𝑆𝑝𝑒𝑐𝑖𝑎𝑙 𝑡𝑜
-╰─⊱ 𝑋𝑃𝑇𝑁
-╰─⊱ 𝑅𝐼𝑆𝐾𝑌
-╰─⊱ 𝐴𝐿𝑃𝐻𝐴
-╰─⊱ 𝐷𝐸𝑁𝐼𝑆
+╠➥ ITACHI BOT
+╠➥  8.4
+╠➥ OWNER : ACHILLBOYY
+╠➥ wa.me/6281316105119
+╠➥ 𝐵𝑖𝑔 𝑆𝑝𝑒𝑐𝑖𝑎𝑙 𝑡𝑜
+╠➥ SAKURABOT
+╠➥ HINATABOT
+╠➥ XNXBOT
+╠➥ SASUKEBOT
 ║
-▣═─⊱【 𝑴𝑬𝑵𝑼 𝑺𝑰𝑴𝑷𝑳𝑬 】⊰─══
+║⠀⠀⠀⠀⠀⣠⣴⣶⣿⠿⢿⣶⣶⣦⣄⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣼⡿⠋⠁⠀⠀⠀⢀⣈⠙⢿⣷⡄⠀⠀
+⠀⠀⠀⠀⢸⣿⠁⠀⢀⣴⣿⠿⠿⠿⠿⠿⢿⣷⣄⠀
+⠀⢀⣀⣠⣾⣿⡇⠀⣾⣿⡄⠀⠀⠀⠀⠀⠀⠀⠹⣧
+⣾⡿⠉⠉⣿⠀⡇⠀⠸⣿⡌⠓⠶⠤⣤⡤⠶⢚⣻⡟
+⣿⣧⠖⠒⣿⡄⡇⠀⠀⠙⢿⣷⣶⣶⣶⣶⣶⢿⣿⠀
+⣿⡇⠀⠀⣿⡇⢰⠀⠀⠀⠀⠈⠉⠉⠉⠁⠀⠀⣿⠀
+⣿⡇⠀⠀⣿⡇⠈⡄⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⠀
+⣿⣷⠀⠀⣿⡇⠀⠘⠦⣄⣀⣀⣀⣀⣀⡤⠊⠀⣿⠀
+⢿⣿⣤⣀⣿⡇⠀⠀⠀⢀⣀⣉⡉⠁⣀⡀⠀⣾⡟⠀
+⠀⠉⠛⠛⣿⡇⠀⠀⠀⠀⣿⡟⣿⡟⠋⠀⢰⣿⠃⠀
+⠀⠀⠀⠀⣿⣧⠀⠀⠀⢀⣿⠃⣿⣇⠀⢀⣸⡯⠀⠀
+⠀⠀⠀⠀⠹⢿⣶⣶⣶⠿⠃⠀⠈⠛⠛⠛⠛⠁⠀⠀
+
+║
+║
+║
+║
+║
+
+
+
+
+║
+╔══✪【MENU SIMPLE】✪══ 
 ║ 
-╭─⊱*${prefix}listmenu*
+╠➥ *${prefix}listmenu*
 ║
-▣═─⊱【 𝐿𝐼𝑆𝑇 𝑀𝐸𝑁𝑈 】⊰─══
+╔══✪【LIST MENU】✪══ 
 ║
-╰─⊱ *${prefix}ownermenu*
-╭─⊱ *${prefix}adminmenu*
-  ╰─⊱ *${prefix}nsfwmenu*
-  ╰─⊱ *${prefix}funmenu*
-  ╰─⊱ *${prefix}mediamenu*
-  ╰─⊱ *${prefix} makermenu*
-  ╰─⊱ *${prefix}vipmenu*
-  ╰─⊱ *${prefix}kerangmenu*
-╰─⊱ *${prefix}animemenu*
-╭─⊱ *${prefix}othermenu*
+╠➥ *${prefix}ownermenu*
+╠➥ *${prefix}adminmenu*
+╠➥ *${prefix}nsfwmenu*
+╠➥ *${prefix}funmenu*
+╠➥ *${prefix}mediamenu*
+╠➥ *${prefix} makermenu*
+╠➥ *${prefix}vipmenu*
+╠➥ *${prefix}kerangmenu*
+╠➥ *${prefix}animemenu*
+╠➥ *${prefix}othermenu*
 ║
-▣═══─⊱【 𝑂𝑇𝐻𝐸𝑅 】⊰─═══
+╔══✪【OTHER】✪══ 
 ║
-╰─⊱ *${prefix}request [teksmu*
-╭─⊱ *${prefix}setprefix*
-  ╰─⊱ *${prefix}bugreport [teksmu]*
-  ╰─⊱ *${prefix}listblock*
-  ╰─⊱ *${prefix}iklan*
-  ╰─⊱ *${prefix}runtime*
-  ╰─⊱ *${prefix}info*
-  ╰─⊱ *${prefix}rules*
-  ╰─⊱ *${prefix}tnc*
-  ╰─⊱ *${prefix}cekvip*
-  ╰─⊱ *${prefix}daftarvip*
-  ╰─⊱ *${prefix}addvip*
-  ╰─⊱ *${prefix}dellvip*
-  ╰─⊱ *${prefix}snk*
-  ╰─⊱ *${prefix}darkadmin*
-  ╰─⊱ *${prefix}darkgroup*
-  ╰─⊱ *${prefix}listpremium*
-  ╰─⊱ *${prefix}donate*
-╰─⊱ *${prefix}ping*
-╭─⊱ *${prefix}owner*
+╠➥ *${prefix}request [teksmu*
+╠➥ *${prefix}setprefix*
+╠➥ *${prefix}bugreport [teksmu]*
+╠➥ *${prefix}listblock*
+╠➥ *${prefix}iklan*
+╠➥ *${prefix}runtime*
+╠➥ *${prefix}info*
+╠➥ *${prefix}rules*
+╠➥ *${prefix}tnc*
+╠➥ *${prefix}cekvip*
+╠➥ *${prefix}daftarvip*
+╠➥ *${prefix}addvip*
+╠➥ *${prefix}dellvip*
+╠➥ *${prefix}snk*
+╠➥ *${prefix}darkadmin*
+╠➥ *${prefix}darkgroup*
+╠➥ *${prefix}listpremium*
+╠➥ *${prefix}donate*
+╠➥ *${prefix}ping*
+╠➥ *${prefix}owner*
 ║
-▣══─⊱ 【 𝑅𝑈𝑁𝑇𝐼𝑀𝐸 】 ⊰─══
+╔══✪【RUNTIME】✪══ 
 ║
-╰─⊱ *STATUS BOT: Online*
-╭─⊱ BOT ON: *24JAM *
+╠➥ *STATUS BOT: Online*
+╠➥ BOT ON: *24JAM *
 ║
-▣══─ ⸨ ICHI BOT ⸩ ─══▣`
+══💖【ITACHI BOT】💖══ 
 }
 exports.help = help
