@@ -37,6 +37,6 @@ const mediamenu = (prefix) => {
 ╰─⊱ *${prefix}animesaran*
 ╰─⊱ *${prefix}animesaran2*
 ║
-╚═〘  ICHI BOT 〙`
+╚═〘  ITACHI BOT 〙`
 }
 exports.mediamenu = mediamenu
