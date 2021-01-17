@@ -226,9 +226,9 @@ const listmenu = (prefix) => {
 ║
 ╚═ Ketik *${prefix}info* untuk melihat list informasi tentang bot
        Ketik *${prefix}owner* untuk melihat kontak owner
-         Mau donasi? 08165466368(dana)
+         Mau donasi? 081316105119(dana)
          Jika tidak ingin donasi bantu Follow Ig aja kak 
-         _instagram.com/maslent11
-    _* ICHI BOT © 2021*_`
+         _instagram.com/achillboyy._
+    _* ITACHI BOT © 2021*_`
 }
 exports.listmenu = listmenu
