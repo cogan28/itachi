@@ -77,7 +77,7 @@ ban = []
 const vcard = 'BEGIN:VCARD\n' // JAN DI UBAH
             + 'VERSION:3.0\n' // JAN DI UBAH
             + 'FN: ITACHI CANS\n' // NAMA KONTAK OWNER
-            + 'ORG:Creator ICHI;\n' // NAMA CREATOR
+            + 'ORG:Creator ITACHI;\n' // NAMA CREATOR
             + 'TEL;type=CELL;type=VOICE;waid=62856-9768-4427 :+62-856-9768-4427\n' // NOMER HP LU
             + 'END:VCARD'
 prefix = '!'
