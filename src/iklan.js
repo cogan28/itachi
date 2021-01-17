@@ -10,7 +10,7 @@ const iklan = () => {
 ╠➥ *GOPAY, DANA, PULSA,TRAKTEER*
 ╠═══════════════════════════
 ╠➥ *KEUNTUNGAN SEWA BOT :*
-╠➥ *1. BISA MENJADI ADMIN Ichi*
+╠➥ *1. BISA MENJADI ADMIN Itachi*
 ╠➥ *2. BISA MENDAPATKAN COMMAND ADMIN*
 ╠➥ *KEUNTUNGAN BUAT BOT :*
 ╠➥ *1. BISA MENJADI OWNER BOT SENDIRI*
@@ -21,9 +21,9 @@ const iklan = () => {
 ╠═══════════════════════════
 ╠➥ *JIKA MINAT IKLAN DIATAS*
 ╠➥ *HARAP HUBUNGI NOMOR DIBAWAH :*
-╠➥ *wa.me/628165466368*
+╠➥ *wa.me/6281316105119*
 ║
-╚═〘  ICHI BOT 〙
+╚═〘  ITACHI BOT 〙
 `
 }
 exports.iklan = iklan
