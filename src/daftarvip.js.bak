@@ -7,11 +7,11 @@ const daftarvip = (prefix) => {
 
 *JIKA INGIN DAFTAR VIP :*
 *Chat Owner BOT :*
-_wa.me/6281368646011 atau ketik *${prefix}owner*
+_wa.me/6281316105119 atau ketik *${prefix}owner*
 
 *NOTE*
 
 *GRUP WHATSAPP BOT :*
-_https://chat.whatsapp.com/G8Lb8t0qG0iLFLxOCPY5hb_ `
+_https://chat.whatsapp.com/FN1H75TYOx37BYB9K8BdxJ_ `
 }
 exports.daftarvip = daftarvip
